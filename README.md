@@ -1,2 +1,3 @@
 # shark
-Showcase of my pet projects
+
+Vitrine dos meus projetos de estimação
