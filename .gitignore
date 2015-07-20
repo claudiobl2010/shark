@@ -58,3 +58,4 @@ target/
 
 # Others
 .DS_Store
+*.swp
