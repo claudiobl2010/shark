@@ -20,8 +20,6 @@ app.template_folder = '%s/../templates' % app.root_path
 app.static_folder = '%s/../static' % app.root_path
 app.config.from_pyfile('config.py')
 
-import pdb; pdb.set_trace()
-
 for url, view in routes:
     app.add_url_rule(url, view_func=view)
 
